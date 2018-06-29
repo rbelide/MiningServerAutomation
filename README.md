@@ -1,0 +1,2 @@
+# MiningServerAutomation
+EtheriumMining 
